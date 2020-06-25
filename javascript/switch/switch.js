@@ -1,5 +1,5 @@
 ﻿let login = prompt("Введите Ваш логин");
-let password = prompt("Введите Ваш пароль")
+let password = prompt("Введите Ваш пароль");
 
 
 switch(true) {
