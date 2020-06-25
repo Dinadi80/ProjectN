@@ -1,0 +1,558 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"query",
+				"query_resalt"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"lo",
+				"loginPasswordArray"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"user",
+				"userName"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"color",
+				"colors"
+			],
+			[
+				"co",
+				"colors"
+			],
+			[
+				"is",
+				"isUserLogin"
+			],
+			[
+				"n",
+				"names"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"c",
+				"colors"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"fu",
+				"fuction"
+			],
+			[
+				"s",
+				"square"
+			],
+			[
+				"r",
+				"random"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"re",
+				"reactionTime"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"d",
+				"displayDate"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"i",
+				"isBackgroundApplied"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"li",
+				"liElements"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"car",
+				"carModel"
+			],
+			[
+				"ca",
+				"carModel"
+			],
+			[
+				"p",
+				"project"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/weatherApp/index.php",
+			"settings":
+			{
+				"buffer_size": 2721,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/mySQL/login.php",
+			"settings":
+			{
+				"buffer_size": 2234,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/weatherApp/css/cssBody.css",
+			"settings":
+			{
+				"buffer_size": 398,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/AppData/Local/Temp/Temp1_original (5).zip/WeatherApp/styles/style.css",
+		"/C/xampp/htdocs/myPHP/anotherfile.php",
+		"/C/xampp/htdocs/myPHP/index.php",
+		"/C/xampp/htdocs/dashboard/my php/test.php",
+		"/C/Users/user/Desktop/Study/WEB/javascript/script.js",
+		"/C/Users/user/Desktop/Study/Проект сайта/js/proect.js",
+		"/C/Users/user/Desktop/Study/Проект сайта/css/proect.css",
+		"/C/Users/user/Desktop/Study/Проект сайта/proect.html",
+		"/C/xampp/htdocs/bitnami.css",
+		"/C/Users/user/Desktop/Study/WEB/BOOTSTRAP/bootstrap2.html",
+		"/C/Users/user/Desktop/Study/Shopping list/css/style.css",
+		"/C/Users/user/Desktop/Study/Shopping list/index.html",
+		"/C/Users/user/Desktop/Study/Shopping list/js/shopping-list.js",
+		"/C/Users/user/AppData/Local/Temp/Temp1_fontawesome-free-5.13.0-web.zip/fontawesome-free-5.13.0-web/css/all.css",
+		"/C/Users/user/Desktop/jquery.js",
+		"/C/Users/user/Desktop/jQuery.html",
+		"/C/Users/user/Desktop/Study/WEB/html98.html",
+		"/C/Users/user/Desktop/Study/WEB/script98.js",
+		"/C/Users/user/Desktop/Study/WEB/javascript/JavascriptTest.js",
+		"/C/Users/user/Desktop/Study/ReactionGame/ReactionGame.html",
+		"/C/Users/user/Desktop/Study/ReactionGame/scriptExample.js",
+		"/C/Users/user/Desktop/Study/WEB/javascript/figureTest.css",
+		"/C/Users/user/Desktop/Study/WEB/javascript/JavaScriptTest.html",
+		"/C/Users/user/Desktop/Study/WEB/javascript/While/Arrays.js",
+		"/C/Users/user/Desktop/Study/WEB/script.js",
+		"/C/Users/user/Desktop/Study/WEB/CSS/mainTestCSS.css",
+		"/C/Users/user/Desktop/Study/WEB/CSS/mainTestCSS.html",
+		"/C/Users/user/Desktop/Study/WEB/javascript/object&metod.js",
+		"/C/Users/user/Desktop/Study/WEB/javascript/waight/waight.js",
+		"/C/Users/user/Desktop/Study/WEB/javascript/switch/switch.js",
+		"/C/Users/user/Desktop/Study/WEB/javascript/Object&&metod.html",
+		"/C/Users/user/Desktop/Study/WEB/javascript/While/Arrays.html",
+		"/C/Users/user/Desktop/Study/WEB/Programming/massive.html",
+		"/C/Users/user/Desktop/Study/WEB/Programming/percenttwo.html",
+		"/C/Users/user/Desktop/Study/WEB/javascript/While/function.html",
+		"/C/Users/user/Desktop/Study/WEB/javascript/While/function.js",
+		"/C/Users/user/Desktop/Study/WEB/Programming/plural.html",
+		"/C/Users/user/Desktop/Study/WEB/Programming/sqTrang.html",
+		"/C/Users/user/Desktop/Study/WEB/Programming/ugaday.html",
+		"/C/Users/user/Desktop/Study/WEB/Programming/rgarg.html",
+		"/C/Users/user/Desktop/Study/WEB/Programming/konvertor.html",
+		"/C/Users/user/Desktop/Study/WEB/Programming/sequence.html",
+		"/C/Users/user/Desktop/Study/WEB/javascript/switch.js",
+		"/C/Users/user/Desktop/Study/WEB/javascript/switch.html",
+		"/C/Users/user/Desktop/Study/WEB/javascript/questionary.html",
+		"/C/Users/user/Desktop/Study/WEB/javascript/questionary.js",
+		"/C/Users/user/Desktop/Study/WEB/javascript/test.html",
+		"/C/Users/user/Desktop/Study/WEB/javascript/condition.js",
+		"/C/Users/user/Desktop/Study/WEB/javascript/waight/waight.html",
+		"/C/Users/user/Desktop/Study/WEB/javascript/switch.js.css",
+		"/C/Users/user/Desktop/Study/WEB/javascript/switch.css",
+		"/C/Users/user/Desktop/Study/WEB/javascript/condition.html",
+		"/C/Users/user/Desktop/Study/WEB/javascript/waight.js",
+		"/C/Users/user/Desktop/Study/WEB/javascript/waight.html",
+		"/C/Users/user/Desktop/Study/WEB/javascript/javascr.html",
+		"/C/Users/user/Desktop/Study/WEB/javascript/javascr.js",
+		"/C/Users/user/Desktop/Study/WEB/CSS/test7.html",
+		"/C/Users/user/Desktop/Study/WEB/CSS/image-gallery.css",
+		"/C/Users/user/Desktop/Study/WEB/CSS/testCSS.html",
+		"/C/Users/user/Desktop/Study/WEB/imgTest3.html",
+		"/C/Users/user/Desktop/Study/WEB/CSS/testCSS2.html",
+		"/C/Users/user/Desktop/Study/WEB/CSS/text.html",
+		"/C/Users/user/Desktop/Study/WEB/CSS/posicion.html",
+		"/C/Users/user/Desktop/Study/WEB/CSS/margin.html",
+		"/C/Users/user/Desktop/Study/WEB/CSS/marga.html",
+		"/C/Users/user/Desktop/Study/WEB/CSS/id.html",
+		"/C/Users/user/Desktop/Study/WEB/CSS/test6.css",
+		"/C/Users/user/Desktop/Study/WEB/CSS/testCSS4.html",
+		"/C/Users/user/Desktop/Study/WEB/CSS/external-css.css",
+		"/C/Users/user/Desktop/Study/WEB/CSS/testCSS3.html",
+		"/C/Users/user/Desktop/Study/WEB/CSS/test2.css",
+		"/C/Users/user/Desktop/Study/WEB/link.html",
+		"/C/Users/user/Desktop/Study/WEB/forms.html",
+		"/C/Users/user/Desktop/Study/WEB/forms2.html",
+		"/C/Users/user/Desktop/Study/WEB/html5.html",
+		"/C/Users/user/Desktop/Study/WEB/CSS/ttipe.html",
+		"/C/Users/user/Desktop/index (1).html",
+		"/C/Users/user/Desktop/Study/WEB/list.html",
+		"/C/Users/user/Desktop/Study/my site/pages/imgT.html",
+		"/C/Users/user/Desktop/Hello world.html",
+		"/C/Users/user/Desktop/Programming/ugaday.html",
+		"/C/Users/user/Desktop/Programming/sqTrang.html",
+		"/C/Users/user/Desktop/Programming/plural.html",
+		"/C/Users/user/Desktop/Programming/percenttwo.html",
+		"/C/Users/user/Desktop/Programming/massive.html",
+		"/C/Users/user/Desktop/Programming/konvertor.html",
+		"/C/Users/user/Desktop/Programming/kgh.html",
+		"/C/Users/user/Desktop/Programming/kalk.html",
+		"/C/Users/user/Desktop/Programming/hello2.html",
+		"/C/Users/user/Desktop/Programming/hello.html",
+		"/C/Users/user/Desktop/Programming/eqel2.html",
+		"/C/Users/user/Desktop/Programming/eqel.html",
+		"/C/Users/user/Desktop/Programming/english.html",
+		"/C/Users/user/Desktop/Programming/cicle.html",
+		"/C/Users/user/Desktop/Programming/sequence.html",
+		"/C/Users/user/Desktop/Programming/rgarg.html",
+		"/C/Users/user/Desktop/Programming/calc.html",
+		"/C/Users/user/Desktop/listTest.html",
+		"/C/Users/user/Desktop/Programming/qession.html",
+		"/C/Users/user/Desktop/Programming/percent.html",
+		"/C/Users/user/Desktop/Programming/h3.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/weatherApp/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/mySQL/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								900,
+								900
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/weatherApp/css/cssBody.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 34.0
+	},
+	"pinned_build_system": "",
+	"project": "script.js",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

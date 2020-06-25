@@ -1,0 +1,31 @@
+
+.blue-with-border {
+	background-color:  #0000FF; color: white; border: 1px dashed white;  margin: 300px 10px 15px;  padding: 10px 300px 150px 150px;
+}
+
+#second-paragraph {background-color: #FF0000; color: #FFBA09; margin: 10px 300px 50px 7px; width: 300;
+padding: auto;  
+}	
+.blue-with-border {background: #0000FF;  color: white; border: 1px dashed white; margin: 10px; 
+padding-top: 50px;
+  padding-right: 300px;
+  padding-bottom: 50px;
+  padding-left: 0px; 
+}
+#my-div * {background: navy; color: red; border: 2px dashed green; margin: 10px 800px 50px 15px; 
+padding-top: 50px;
+  padding-right: 70px;
+  padding-bottom: 50px;
+  padding-left: 15px; ; }
+
+.my-di * { background: #0000FF; color: green; border: 1px dashed white; margin: 10px 800px 50px 70px; 
+padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 0px }
+
+ul li {background: green; color: orange; margin: 10px 800px 50px 70px; 
+padding-top: 50px;
+  padding-right: 60px;
+  padding-bottom: 50px;
+  padding-left: 0px }

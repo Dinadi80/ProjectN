@@ -1,0 +1,23 @@
+<meta charset="utf-8">
+<script type="text/javascript">
+let begin = +prompt ("Введите первое число последовательности чисел");
+let end = +prompt ("Введите второе число последовательности чисел") 	
+const sequenceSum = (begin, end) => {
+       if (begin > end) {
+      return NaN;
+    } 
+    	 if (begin === end) {
+      return end;
+    }
+    return end + sequenceSum(begin, end - 1)
+  
+  // END
+};
+
+const answer = sequenceSum (begin, end);
+alert (answer);
+
+
+
+
+</script>
