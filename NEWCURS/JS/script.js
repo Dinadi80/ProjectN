@@ -16,5 +16,20 @@
 
 //console.log(`https://someurl.com/${category}/5`);
 
-const user = 'ivan';
-alert(`hello ${user}`);
+const numberOffilms = +prompt('Нow many movies have you watched?', '');
+const personalMoviesDB = {
+    count: numberOffilms,
+    movies: {},
+    actors: {},
+    ganres: [],
+    privat: false
+};
+
+const   a = prompt('One of the last movies seen', ''),
+        b = prompt('by how much you rate it', ''),
+        c = prompt('One of the last movies seen', ''),
+        d = prompt('by how much you rate it', '');
+
+personalMoviesDB.movies[a] = b; 
+personalMoviesDB.movies[c] = d; 
+console.log(personalMoviesDB);
