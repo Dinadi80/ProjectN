@@ -16,7 +16,16 @@
 
 //console.log(`https://someurl.com/${category}/5`);
 
-const numberOffilms = +prompt('Нow many movies have you watched?', '');
+let numberOffilms;
+
+function start() {
+    numberOffilms = +prompt('Нow many movies have you watched?', '');
+    while (numberOffilms == '' || numberOffilms == null || isNaN(numberOffilms)){
+
+    }
+}
+
+start();
 const personalMoviesDB = {
     count: numberOffilms,
     movies: {},
@@ -33,19 +42,26 @@ const personalMoviesDB = {
 personalMoviesDB.movies[a] = b; 
 personalMoviesDB.movies[c] = d;  */
 
-for(let i = 0; i < 2; i++) {
-    const a = prompt('One of the last movies seen', ''),
-        b = prompt('by how much you rate it', '');
 
-        if (a != null && b != null && a != '' && b != ''  && a.length < 50) {
-            personalMoviesDB.movies[a] = b;
-            console.log('done');
-        } else {
-            console.log('error');
-            i--;
-        }
-       
+ function rememberMyFilms() {
+    for(let i = 0; i < 2; i++) {
+        const a = prompt('One of the last movies seen', ''),
+            b = prompt('by how much you rate it', '');
+    
+            if (a != null && b != null && a != '' && b != ''  && a.length < 50) {
+                personalMoviesDB.movies[a] = b;
+                console.log('done');
+            } else {
+                console.log('error');
+                i--;
+            }
+ }      
 }
+
+rememberMyFilms();
+
+function detectPersonalLevel() {
+
 if (personalMoviesDB.count <10) {
     console.log('Просмотрено мало фильмов');
 } else if (personalMoviesDB >= 10 && personalMoviesDB < 30){
@@ -55,12 +71,24 @@ if (personalMoviesDB.count <10) {
 } else {
     console.log('error');
 }
+}
+detectPersonalLevel();
 
-
-
-console.log(personalMoviesDB);
+function showMyDB(hidden) {
+    if (!hidden) {
+        console.log(personalMoviesDB);
+    } else {
+        console.log('We have privat status');
+    }
+}
+showMyDB(personalMoviesDB.privat);
+function writeYourGeneral() {
+    for (let i =1; i<= 3; i++){
+        personalMoviesDB.ganres[i-1] = prompt(`Ваш любимй жанр под номером ${i}`);
+    }
+}
+writeYourGeneral();
 
     
-
 
 
