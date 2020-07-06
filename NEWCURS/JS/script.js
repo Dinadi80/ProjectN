@@ -25,7 +25,7 @@ function start() {
     }
 }
 
-start();
+//start();
 const personalMoviesDB = {
     count: numberOffilms,
     movies: {},
@@ -58,7 +58,7 @@ personalMoviesDB.movies[c] = d;  */
  }      
 }
 
-rememberMyFilms();
+//rememberMyFilms();
 
 function detectPersonalLevel() {
 
@@ -72,7 +72,7 @@ if (personalMoviesDB.count <10) {
     console.log('error');
 }
 }
-detectPersonalLevel();
+//detectPersonalLevel();
 
 function showMyDB(hidden) {
     if (!hidden) {
@@ -81,14 +81,79 @@ function showMyDB(hidden) {
         console.log('We have privat status');
     }
 }
-showMyDB(personalMoviesDB.privat);
+//showMyDB(personalMoviesDB.privat);
 function writeYourGeneral() {
     for (let i =1; i<= 3; i++){
         personalMoviesDB.ganres[i-1] = prompt(`Ваш любимй жанр под номером ${i}`);
     }
 }
-writeYourGeneral();
+//writeYourGeneral();
 
+function learnJS(lang, callback) {
+    console.log(`Я учу: ${lang}`);
+    callback();
+}
+
+function done () {
+    console.log('Я прошел этот урок!');
+}
+
+//learnJS('JavaScript', done);
+// const options = {
+//     name: 'test',
+//     width: 1024,
+//     height: 1024,
+//     colors: {
+//         border: 'black',
+//         bg: 'red'
+//     },
+//     makeTest: function() {
+//         console.log('Test');
+//     }
+// };
+
+// options.makeTest();
+
+// const {border, bg} = options.colors;
+// console.log(border);
+// // let counter = 0;
+// // for (let key in options) {
+// //     if (typeof(options[key]) === 'object') {
+// //         for (let i in options[key]) {
+// //             console.log(`Свойство ${i} имеет значение ${options[key][i]}`);
+// //             counter++;
+// //         }
+// //     } else {
+// //         console.log(`Свойство ${key} имеет значение ${options[key]}`);
+// //         counter++;
+// //     }
+// // }
+
+// // console.log(counter);
     
 
+// //console.log(Object.keys(options).length);
 
+ const arr = [2,3,5,7,8,9];
+ arr.sort(compareNum);
+ console.log(arr);
+
+ function compareNum(a, b) {
+     return a-b;
+ }
+
+// arr.forEach(function(item, i, arr) {
+//     console.log(`${i}: ${item} внутри массива ${arr}`);
+// });
+
+// for (let i=0; i < arr.length; i++) {
+//     console.log(arr[i]);
+// }
+
+// for (let value of arr) {
+//     console.log(value);
+// }
+
+const str = prompt("", "");
+const products = str.split(", ");
+console.log(products.join('; '));
